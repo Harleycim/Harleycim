@@ -91,49 +91,6 @@ I am a passionate developer from Turkey. I love the logic and structure of codin
 
 ---
 
-## 🎯 Recent Projects
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">Project 1</h3>
-        <div align="center">
-          <a href="https://github.com/Harleycim/project1" target="_blank">
-                         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Harleycim&repo=project1&theme=dark&hide_border=true" width="100%" alt="Project 1"/>
-          </a>
-        </div>
-        <p align="center">
-          <a href="https://github.com/Harleycim/project1" target="_blank">
-            <img src="https://img.shields.io/badge/Repo-000000?style=for-the-badge&logo=github&logoColor=white" alt="Repository" />
-          </a>
-          <a href="https://project1-demo.com" target="_blank">
-            <img src="https://img.shields.io/badge/Live_Demo-00FF00?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
-          </a>
-        </p>
-      </td>
-      <td width="50%">
-        <h3 align="center">Project 2</h3>
-        <div align="center">
-          <a href="https://github.com/Harleycim/project2" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Harleycim&repo=project2&theme=dark&hide_border=true" width="100%" alt="Project 2"/>
-          </a>
-        </div>
-        <p align="center">
-          <a href="https://github.com/Harleycim/project2" target="_blank">
-            <img src="https://img.shields.io/badge/Repo-000000?style=for-the-badge&logo=github&logoColor=white" alt="Repository" />
-          </a>
-          <a href="https://project2-demo.com" target="_blank">
-            <img src="https://img.shields.io/badge/Live_Demo-00FF00?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
-          </a>
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
 ## 🎵 Currently Listening
 
 <div align="center">
@@ -145,7 +102,4 @@ I am a passionate developer from Turkey. I love the logic and structure of codin
 <div align="center">
   <h3>Thanks for checking out my GitHub Profile! 🙏</h3>
   
-  <img src="https://img.shields.io/badge/Built%20with-❤️-orange" alt="Built with Love" />
-  
-     <img src="https://komarev.com/ghpvc/?username=Harleycim&style=flat-square&color=blue" alt="Profile Views" />
-</div>
+
