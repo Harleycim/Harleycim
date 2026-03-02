@@ -6,8 +6,6 @@
 
 I am a passionate developer from Turkey. I love the logic and structure of coding and always strive to write elegant and efficient code, whether it be HTML, CSS, JavaScript, or any other programming language. I have experience in web development and software engineering.
 
-🌐 Check out my website -> [https://harleycim.site/](https://harleycim.site/)
-
 ---
 
 ## Fun Fact 💡:
@@ -102,5 +100,6 @@ I am a passionate developer from Turkey. I love the logic and structure of codin
 <div align="center">
   <h3>Thanks for checking out my GitHub Profile! 🙏</h3>
   
+
 
 
